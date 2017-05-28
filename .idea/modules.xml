@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RealMe.iml" filepath="$PROJECT_DIR$/RealMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealMeApp.iml" filepath="$PROJECT_DIR$/RealMeApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
